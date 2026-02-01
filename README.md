@@ -1,6 +1,5 @@
 # heart-disease-predection-system
 
-
 A Machine Learning–based system that predicts the presence of heart disease using clinical and medical parameters.  
 This project aims to assist in early diagnosis by analyzing patient health data and providing accurate predictions.
 
